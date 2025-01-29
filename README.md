@@ -28,7 +28,7 @@ You can find the demo of our prototype [here](https://drive.google.com/file/d/1y
 
 Anmoldeep Singh\
 Khushi Kakkar\
-Deepro Chakravorty - [Github](https://github.com/DThePro/)
+Deepro Chakravorty - [Github](https://github.com/DThePro/)\
 Srijit Sen (Myself)
 
 ## License
